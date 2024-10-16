@@ -18,11 +18,15 @@ const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay));
 const presale = JSON.parse(fs.readFileSync('../data/presalers.json'));
 const tonApi = axios.create({
   baseURL: 'http://tonapi.io',
+  headers: {
+    Authorization:
+      'Bearer AFPJTKEBPOX3AIYAAAAKA2HWOTRNJP5MUCV5DMDCZAAOCPSAYEYS3CILNQVLF2HWKED6USY',
+  },
 });
 //188
 const result = [];
 const main = async () => {
-  for (let i = 0; i < 188; i++) {
+  for (let i = 0; i < presale.presalers.length; i++) {
     const jettons = await tonApi(
       `/v2/accounts/${presale.presalers[i].wallet}/jettons`
     );
@@ -56,7 +60,7 @@ const main = async () => {
       is3,
     });
     console.log(result.length);
-    await sleep(1000);
+    await sleep(100);
   }
   fs.writeFile('../data/points1.json', JSON.stringify(result), (error) => {
     // throwing the error
@@ -74,3 +78,41 @@ main();
 // return {
 //   ...item,
 // };
+// {
+//   "id": 377090862,
+//   "wallet": "EQB2i0KKDTCziBOfXEjruU8iOycoqT4gUZznROnWlXlQMPMD",
+//   "amount": 5,
+//   "user_data": {
+//   "first_name": "🐤Denis Gra-Gra 🌱 SEED”",
+//     "username": "denisv999",
+//     "language_code": "ru",
+//     "is_premium": true
+// },
+//   "is2": false,
+//   "is3": false
+// },
+// {
+//   "id": 371544960,
+//   "wallet": "EQCY6YLuL7VjuOD697_-IErsK_plZ1DEksrakT81r0SsRuMi",
+//   "amount": 5,
+//   "user_data": {
+//   "first_name": "xtati",
+//     "username": "ixtati",
+//     "language_code": "en"
+// },
+//   "is2": false,
+//   "is3": false
+// },
+// {
+//   "id": 251036021,
+//   "wallet": "EQBlXNG9piJsGLIX4UZ682mxffr4vxoEXx6oq-bEIiw6-N_T",
+//   "amount": 5,
+//   "user_data": {
+//   "first_name": "WinWin 🍅🦉🐈‍⬛🌱",
+//     "username": "GoWinWin",
+//     "language_code": "uk",
+//     "is_premium": true
+// },
+//   "is2": true,
+//   "is3": false
+// }

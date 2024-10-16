@@ -3,7 +3,17 @@ import * as fs from 'fs';
 const round1 = JSON.parse(fs.readFileSync('../data/round1_users.json'));
 const round2 = JSON.parse(fs.readFileSync('../data/round2_users.json'));
 const round3 = JSON.parse(fs.readFileSync('../data/round3_users.json'));
-const presale = [...round1, ...round2, ...round3];
+
+const dround1 = round1.map((item) => ({
+  ...item,
+  amount: item.amount * 1.1,
+}));
+const dround2 = round2.map((item) => ({
+  ...item,
+  amount: item.amount * 1.05,
+}));
+
+const presale = [...dround1, ...dround2, ...round3];
 
 const uniq = {};
 presale.forEach((item) => {

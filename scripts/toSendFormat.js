@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const presale = JSON.parse(fs.readFileSync('../data/points.json'));
+const presale = JSON.parse(fs.readFileSync('../data/points1.json'));
 let total = 0;
 const pointsArray = presale.map((item) => {
   const points =
@@ -14,7 +14,7 @@ const pointsArray = presale.map((item) => {
 const result = pointsArray.map((item) => {
   return {
     wallet: item.wallet,
-    amount: (item.points * 100000) / total,
+    amount: (Math.round((item.points * 100000 * 100) / total) / 1000) * 7,
   };
 });
 fs.writeFile('../data/amount.json', JSON.stringify(result), (error) => {

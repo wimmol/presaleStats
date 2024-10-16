@@ -1,8 +1,1303 @@
 [
   {
+    "id": 7301192434,
+    "wallet": "EQBOwglqtTZtZ9e-XhFxIyBEASfUWai8H8hr62k9DcxI8tUf",
+    "amount": 450,
+    "user_data": {
+      "first_name": "Milliarder",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 515233558,
+    "wallet": "EQBogILa4wEWNnbBOtXRpgdVIZV74LVol-lQa-qgBE6CUnPR",
+    "amount": 436.5,
+    "user_data": {
+      "first_name": "Bfrutik",
+      "username": "bfrutik",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 501640767,
+    "wallet": "EQAG5OHGqpt4EhwZpVGt8i7XcGZENRUz-WIwXtLtlGn4Fljo",
+    "amount": 385.75,
+    "user_data": {
+      "first_name": "Andre DMT Invest",
+      "username": "streamco",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 1037138020,
+    "wallet": "EQAnj8hgilvKUymzPXk1Xfv8eFdWSlZ45ComBfd5Kr-vGr-q",
+    "amount": 369,
+    "user_data": {
+      "first_name": "Xlegal",
+      "username": "MXlegal",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 5956397540,
+    "wallet": "EQBWV8MbziH6H6RYd60L5cRgCHm0BY1gPhmXISdSIu0iTRei",
+    "amount": 354.5,
+    "user_data": {
+      "first_name": "Jignesh",
+      "last_name": "Chauhan",
+      "username": "Bharjoe",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 359384344,
+    "wallet": "EQDFzBSXoQ2NFopNwL3uHe5BwT99p3uFDq-Tb-hPgkSblyv1",
+    "amount": 330,
+    "user_data": {
+      "first_name": "Vladislav",
+      "last_name": "Oboronitel",
+      "username": "Oboronitel",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 8103117982,
+    "wallet": "EQAQz4UzCJPkk89uHPRAnbnih4t7_7Fxl7zKt4BrhLpEui8R",
+    "amount": 300,
+    "user_data": {
+      "first_name": "Димидрол",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 7135096147,
+    "wallet": "EQCgYtUdzPUXpEPiuUJ-JVqL_Ec1htq6gCUkz_ue8tfs4WtZ",
+    "amount": 277,
+    "user_data": {
+      "first_name": "JojokopAr",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 3,
+    "wallet": "UQC8oun2zkOaRaz8Xecn-2Pl5y077tJs07yDu31aXjd0PKcI",
+    "amount": 275,
+    "user_data": {
+      "first_name": "f",
+      "username": "-",
+      "is_premium": false
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 424229573,
+    "wallet": "EQB7Dc8D7ad7CPX_1C3vglyxgm6qoDqsE1Ph1Bsavx0HJrdj",
+    "amount": 269.5,
+    "user_data": {
+      "first_name": "федя",
+      "username": "fedyamdma",
+      "language_code": "pl"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5651286141,
+    "wallet": "EQC3kOrRczDcFqhgyX1syCOMnKR68cwzao3a2ZC8aHVpBrEd",
+    "amount": 252,
+    "user_data": {
+      "first_name": "Acid",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 496560064,
+    "wallet": "EQCFBaCdPYEnNVrk9BcplNWGzxXxd2JSOTKDFm4pU0Pmx3lG",
+    "amount": 230.35000000000002,
+    "user_data": {
+      "first_name": "Crazy",
+      "last_name": "Boy",
+      "username": "Crazyboyj",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 1308610113,
+    "wallet": "EQCUUfn_gySbUzEAn45mkq1kbpaYa7nb5B2ouAPJPKUfLfpy",
+    "amount": 230,
+    "user_data": {
+      "first_name": "Kirpich",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1134830444,
+    "wallet": "EQBajJdq3zLjhAYMVFvl1kA5pIw3blqrhi5BdRIlg2X01QFI",
+    "amount": 225.00000000000003,
+    "user_data": {
+      "first_name": "Prost",
+      "username": "freshwatermellow",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 451659998,
+    "wallet": "EQCB7Mx3kKiPWBXpnUs5i4-nxaNTP0qlOr1MoHYJX9xMO8Pa",
+    "amount": 210,
+    "user_data": {
+      "first_name": "Haugen Maunen",
+      "username": "isergild",
+      "language_code": "uk",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 1849688838,
+    "wallet": "EQANbKVxRIZwy8Kf19RPlACOeqM3rsKTqX2N7nlwVyfPoU5Y",
+    "amount": 202,
+    "user_data": {
+      "first_name": "Ivan",
+      "last_name": "Che",
+      "username": "amIloosingtouch",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 7507761236,
+    "wallet": "EQBsQ9AKRlY7u3MnOiHkNL1AYRrJJnNUq8F8T5Y0OEudnqpq",
+    "amount": 199.5,
+    "user_data": {
+      "first_name": "Даник",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 6764883197,
+    "wallet": "EQDn8ZuEEjbAuGVLQtcSmHE2YHVWXKv6ch3pGEwm0npmY7ZE",
+    "amount": 198.00000000000003,
+    "user_data": {
+      "first_name": "Murphy",
+      "username": "murphysto",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 737616582,
+    "wallet": "EQAJIV7DJFgEv1OJD3bQ_axSpQLBZ76qfctG47cc8iGNhXnf",
+    "amount": 194.25,
+    "user_data": {
+      "first_name": "Алексей",
+      "username": "mindset1221",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 766946475,
+    "wallet": "EQDUE7hs4Z0jacVrj8hMcy0pinHDa6YlhB3TZSnTa9BG5Eqz",
+    "amount": 187.00000000000003,
+    "user_data": {
+      "first_name": "Крылов",
+      "last_name": "Данил",
+      "username": "Danilkrylov123",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 744766974,
+    "wallet": "EQDPBCuiCoiYaSyLQ6ouwxgqHMEr1WR4pV5B0eVpi52sMG0G",
+    "amount": 165,
+    "user_data": {
+      "first_name": "рома",
+      "username": "togetup",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 302309919,
+    "wallet": "EQAyTkKFK-PSqBq-6uGz1-u6Y3g8lfvuOUdvWsdV4ECVMoF5",
+    "amount": 160,
+    "user_data": {
+      "first_name": "Pavel",
+      "username": "Wimmol",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 6070010563,
+    "wallet": "EQD2MT7nn8OL3Qtmt2_mKWALTdOYYI511UIVTCHdfRoKWTuW",
+    "amount": 157.5,
+    "user_data": {
+      "first_name": "Ma",
+      "username": "mathert",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 605893992,
+    "wallet": "EQCoQ2YseNWYKiUCr87xVg13Lhsh17bU6Fai6pTzQb7kD1RH",
+    "amount": 145.95,
+    "user_data": {
+      "first_name": "Zakhar",
+      "username": "zuckzak",
+      "language_code": "en"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 194698214,
+    "wallet": "EQCX0M7_pQrL7e2jnVYZnXWpJzCK_Z4ryYCWU1qT9I6jdIas",
+    "amount": 142,
+    "user_data": {
+      "first_name": "Maxim",
+      "last_name": "Пацюк",
+      "username": "maxuver",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1462791706,
+    "wallet": "EQC8qATRu2c6tAwySLRpBjtn9YTe9oPnkjKQd96nDD9IW1wF",
+    "amount": 117.50999999999999,
+    "user_data": {
+      "first_name": "dude",
+      "username": "gniKssenwolS",
+      "language_code": "en"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 509831948,
+    "wallet": "EQBmDEHVy9gMOkOaC2Q2f56j3DKDCxeiBnIXCJaDm8fhSMFF",
+    "amount": 110.00000000000001,
+    "user_data": {
+      "first_name": "yanezema",
+      "username": "koklapper88",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 566485534,
+    "wallet": "EQD9EJCF68OtsXZC8AGlWyFJKOlf9Ua22JDOxBPhrVKfbSUK",
+    "amount": 108,
+    "user_data": {
+      "first_name": "Agent",
+      "last_name": "A.",
+      "language_code": "uk",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 500562020,
+    "wallet": "EQABZWfSBk2auQAXFe9qZZ26DoyOttVyBQJ5_XDt5EtC_DD7",
+    "amount": 105.6,
+    "user_data": {
+      "first_name": "Андрей",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 315571632,
+    "wallet": "EQDmnsnvaNU7D3fbzLHk3nCQf2vOTu0KczQQHx8IxooR1KkV",
+    "amount": 105,
+    "user_data": {
+      "first_name": "Vasiliy Rehabspine",
+      "last_name": "Lunev",
+      "username": "Lunevrehab",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 6515925550,
+    "wallet": "EQBFaIt1Hc21ToFpJEDMP1GatwQMU-HM__IqW98ktIWYyHK_",
+    "amount": 100.618863213,
+    "user_data": {
+      "first_name": "Wombat",
+      "last_name": "Angry",
+      "username": "wombatangry",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 428181237,
+    "wallet": "EQBFIaHVibFczHLxkfzKCNtVUXGyvX_TkU0QjUzr2NY2af7p",
+    "amount": 100,
+    "user_data": {
+      "first_name": "Nikifor",
+      "username": "hfnik",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 388116658,
+    "wallet": "EQA5FbFYletFJvF7dtzVkBRdwfzFyuv7Uf0Yo97KGLn4PHun",
+    "amount": 100,
+    "user_data": {
+      "first_name": "Rouzii",
+      "username": "rouzii",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 6917300937,
+    "wallet": "EQBPemh33gvV5br8iR1j9YIdpwqQeB5xD2sz4Pz3-_ZAIgBH",
+    "amount": 99.75,
+    "user_data": {
+      "first_name": "wotahek",
+      "username": "wotahek",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 1987001719,
+    "wallet": "EQC6-_thVqsKNh-f9bxOzq-laxSvAYmqwx5p60vhqhk2LS_l",
+    "amount": 97.9,
+    "user_data": {
+      "first_name": "Данил",
+      "last_name": "Майборода",
+      "username": "notsorapoi",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 518123315,
+    "wallet": "EQCHJxVv2K_aFRBOyJBwOvp-2wWdSYL6uPlnqcf4vDKlUMA-",
+    "amount": 94.5,
+    "user_data": {
+      "first_name": "Oleksii",
+      "last_name": "Yatsenko",
+      "username": "OleksiiYatsenko",
+      "language_code": "en"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 7134875364,
+    "wallet": "EQAfRPJ-e6i3yLtj_dVrtMil0R7xRQgAJzcS9NDF_kvbG0xm",
+    "amount": 89.25,
+    "user_data": {
+      "first_name": "𝙘𝙞con",
+      "username": "coliton",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 426433660,
+    "wallet": "EQDaXa4CZvjD1Dgx0cMiNpPZKdA66MjXTiytgNHNOQKh4qXZ",
+    "amount": 85,
+    "user_data": {
+      "first_name": "Євгеній Фарафонов",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 153662747,
+    "wallet": "EQCXwZDxEWtYL4Mj90NI-RP81ZYr5hjSPqMsk-0o66yZBdwJ",
+    "amount": 82.5,
+    "user_data": {
+      "first_name": "Vel",
+      "username": "ValeronVO",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 260064622,
+    "wallet": "EQDLQIafeRGXJTCKyQbmP_wKx-DlViUpfun-t4I78o5bzRbS",
+    "amount": 66,
+    "user_data": {
+      "first_name": "ddxxddddxddd",
+      "username": "hahahhhoooohoxdddxxd",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 6651978547,
+    "wallet": "EQBTagUfWbwnNzlaJk_ye0MgpWRPnHm5P88BqO7TWxeAyb_X",
+    "amount": 65,
+    "user_data": {
+      "first_name": "Bl0rm",
+      "last_name": "whole",
+      "username": "w0rm_bLue",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 320725797,
+    "wallet": "EQDEgSmNUgojjH-kkY5YTOcTEHWtGzKUnnYuHCP5I8XqYtNV",
+    "amount": 65,
+    "user_data": {
+      "first_name": "Alexander",
+      "last_name": "B.",
+      "username": "sashabalashoff",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 113553733,
+    "wallet": "EQDUieZknel3pDFBMXXOsQQW63KF-r_VfGcYiWE8CslZR57w",
+    "amount": 63.800000000000004,
+    "user_data": {
+      "first_name": "Michael",
+      "last_name": "Voronets",
+      "username": "mikeqv",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 6422997065,
+    "wallet": "EQB4GHUe-icvNbYoyRHjH-DB1JVVxokZAIkh00VyPLJZARqQ",
+    "amount": 61.95,
+    "user_data": {
+      "first_name": "🐱",
+      "last_name": "🐤",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1039201974,
+    "wallet": "EQD6z5jDQn6gnmRMbkuAbaWka8b9fT946tS7_uPJvwI92Z-S",
+    "amount": 58.300000000000004,
+    "user_data": {
+      "first_name": "nikitaaa",
+      "username": "nikitaqsd",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 391217673,
+    "wallet": "EQD4JRzEu0eosYlTMMfJHIZqvZmoxKYWZ4xJ-d8JcPzI3iLi",
+    "amount": 55.00000000000001,
+    "user_data": {
+      "first_name": "Vlad",
+      "last_name": "Yukharin",
+      "username": "yukharin",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1,
+    "wallet": "UQBAh3MBmRSoHHgrxzR6HgeFqh5MogTGg9UsZcJFl8ohLReI",
+    "amount": 55.00000000000001,
+    "user_data": {
+      "first_name": "f",
+      "username": "-",
+      "is_premium": false
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1337548715,
+    "wallet": "EQDNH5E_7Nt9B0cgqi8x2nLeOK6NukFbmlzYfMR35UU6xAfO",
+    "amount": 55,
+    "user_data": {
+      "first_name": "Терем",
+      "username": "Ermi1off",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5594467943,
+    "wallet": "EQC-xO0o2KhZeOdTr4O68sU8Tt_K1YLB3XO1vQUOqZJgV8e-",
+    "amount": 52.5,
+    "user_data": {
+      "first_name": "Maxim",
+      "username": "tvoya_anomaliya",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1934907145,
+    "wallet": "EQCCuogdwePP8qBT4JBwFSuUNJMKJl8c2EqlOFkWvICXqBog",
+    "amount": 52.5,
+    "user_data": {
+      "first_name": "Алексей",
+      "username": "TonXempire",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5864596040,
+    "wallet": "EQB18oXwDskS0f7SWAYBAWis-k6zli_G1qk4ZQJ3BR55ooYB",
+    "amount": 51.45,
+    "user_data": {
+      "first_name": "Imploded💥",
+      "username": "Imploded",
+      "language_code": "en"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 112821085,
+    "wallet": "EQBPf1euTd73OUXmJDKKaZODWXsIqje2yHLjGjyCz97JY0tO",
+    "amount": 51.45,
+    "user_data": {
+      "first_name": "Vadym",
+      "last_name": "Rybak",
+      "username": "vrybak",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1665908171,
+    "wallet": "EQBjnXrZfaFjaIxsrnF_lydlq1xX0pMppyxQcvvyMdr8Spdy",
+    "amount": 50.6,
+    "user_data": {
+      "first_name": "i",
+      "username": "sorry_mate",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1992453225,
+    "wallet": "EQDzL8Hc8Vg6ZWrx3yc7ePoBHfLn7gU16w860ukRZGCECLaL",
+    "amount": 50,
+    "user_data": {
+      "first_name": "⁹¹¹",
+      "username": "omamemos",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 318951201,
+    "wallet": "EQD7IwmXRI5jIxfphIpmUyn1GUrlNlKU6eiUEWmPSDUwBUxl",
+    "amount": 50,
+    "user_data": {
+      "first_name": "Ilya 🚀",
+      "username": "Acex187x",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 599012920,
+    "wallet": "EQDGwwCZ5P0k9wBM5Qs5HHawAd3VL-FXtKRC_j-uEbAlC_2w",
+    "amount": 49.50000000000001,
+    "user_data": {
+      "first_name": "J K",
+      "last_name": "Novo",
+      "username": "JKNovo",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 2,
+    "wallet": "UQD9y6lCTbGKdluIm0HH5g5WYPbOQixSZIBeeeACo62W_JaC",
+    "amount": 49.50000000000001,
+    "user_data": {
+      "first_name": "f",
+      "username": "-",
+      "is_premium": false
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1259369955,
+    "wallet": "EQDB4ogfS5OwZfAw6jvNnHHuEoAr6MYeGXGRb5Ph-VQAvm8J",
+    "amount": 45.8,
+    "user_data": {
+      "first_name": "Yaroslav",
+      "username": "yaroslavtaran",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1244433384,
+    "wallet": "EQDMY5HfW4L5KKJ7-x_37i1NZZI8bbksQxz93yEJF4aW5n7v",
+    "amount": 42.9765,
+    "user_data": {
+      "first_name": "Im",
+      "username": "Nikitushochek",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1043925536,
+    "wallet": "EQDPI8v-kNrSz2JClENzaF-Yyv06rjf_RL5QHMrfwTCpWl7H",
+    "amount": 42,
+    "user_data": {
+      "first_name": "женщины не интересуют",
+      "username": "lC11H15NOl",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 417699621,
+    "wallet": "EQACndCIN_AMlh0a48di66HF-fxZDKepE25nl_n7HnuuebKG",
+    "amount": 42,
+    "user_data": {
+      "first_name": "Dmitriy",
+      "last_name": "T.",
+      "username": "unique_dima",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 366908391,
+    "wallet": "EQCBfi8EQcb4zhkXPyWXF3OohR_3CZpHqJgZB8cc13gJkNVP",
+    "amount": 41.55,
+    "user_data": {
+      "first_name": "BuC",
+      "username": "tayovakus",
+      "language_code": "en"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5199432252,
+    "wallet": "EQDhAQQ5Y_h2C4CvpBP47cOWpiUVzgbU8pTHehlGpPcRvsC0",
+    "amount": 40,
+    "user_data": {
+      "first_name": "Salmon",
+      "username": "PumpGuy00",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1277432717,
+    "wallet": "EQCKWG9kssJHFnAOzxv-Qub6r8R5zBF-gHoaXEF1zafjQmb2",
+    "amount": 40,
+    "user_data": {
+      "first_name": "Михаил",
+      "last_name": "Д",
+      "username": "Mr_Rio999",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 472727135,
+    "wallet": "EQC4ml7vCDi4wd0kj5YA9jD-_zS6uY9IAamG66l_b4-XwXEO",
+    "amount": 38.5,
+    "user_data": {
+      "first_name": "Black",
+      "last_name": "Evening",
+      "username": "blackevening",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": true
+  },
+  {
+    "id": 1054107998,
+    "wallet": "EQCHzMKalYRXMjvBrllHENtnT8JvhyJRggvJmOdlUWy_nEKb",
+    "amount": 35.53,
+    "user_data": {
+      "first_name": "Александр",
+      "last_name": "Киров",
+      "username": "n1ckxd_off",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1035731963,
+    "wallet": "EQB3_G1MxvqqcUnjYJet9TRc3jNeX8U5i5zJRWogjM5MsSFe",
+    "amount": 33.1,
+    "user_data": {
+      "first_name": "СимбаWRLD",
+      "username": "simbajoski",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 7413438353,
+    "wallet": "EQCeQ8-seHZmGaW2RZTpK-VyzzzcaX1njjxiNk2VfcYvLy0_",
+    "amount": 33,
+    "user_data": {
+      "first_name": "Stanislav",
+      "username": "Stanis1256",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1092741049,
+    "wallet": "EQCCMH4bvDX26XxauycbHGjj_0kTo7WLpmrYLgc3m9TC8e9J",
+    "amount": 33,
+    "user_data": {
+      "first_name": "f",
+      "username": "Fr1sty",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 641010584,
+    "wallet": "EQC6C12aq90VvF2yc80yGab6-LOkDrqtGZDKeWYjSd3ccH8X",
+    "amount": 32.09,
+    "user_data": {
+      "first_name": "fx",
+      "username": "fxtqq",
+      "language_code": "en"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 152148188,
+    "wallet": "EQCxMV0dPs8mJo2bovZ7g-zXdQ7i8f7FT80XJVmJVwIVfy_U",
+    "amount": 30.5,
+    "user_data": {
+      "first_name": "¥€$",
+      "username": "imckr",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5311847151,
+    "wallet": "EQADwKMNek6G1rAiSjhxDo7GkZYdNz-C6eEiBhCGdtAzd5l8",
+    "amount": 30.05,
+    "user_data": {
+      "first_name": "🅂🄰🄼🅈💻",
+      "username": "samihzk",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 408477283,
+    "wallet": "EQCnJinTFmy6Q_7LSHr-QCz29SNoSt390agdiFsp2MQj57fh",
+    "amount": 30,
+    "user_data": {
+      "first_name": "Anton",
+      "username": "anton2_7",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 999717084,
+    "wallet": "EQD9FGuxAouogXxk1C9ft7yQyz6tgmyZ6jrPlOots7gCFs4F",
+    "amount": 27,
+    "user_data": {
+      "first_name": "Бременский музыкант 🎻",
+      "username": "sanlang_800",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5505706224,
+    "wallet": "EQB_7TmcEg1O5T7iNJrxvfjK1MnhALE1B7v3ClRRrygdfc8C",
+    "amount": 26.25,
+    "user_data": {
+      "first_name": "Татьяна 🐈‍⬛",
+      "last_name": "Маркова",
+      "username": "Cjjt4x",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 257323218,
+    "wallet": "EQD2lX6oKtkGPC0RKbybHYGxSXfwLyPYfdn4uH2ulgUZxUkU",
+    "amount": 22,
+    "user_data": {
+      "first_name": "Al",
+      "last_name": "Solo",
+      "username": "alsolo366",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1047937575,
+    "wallet": "EQCEqDr7tx766Dh5LBgGHXdDFBnPSHyn6YSUiRCpZc7W_O9m",
+    "amount": 21.9959871663,
+    "user_data": {
+      "first_name": "scde",
+      "username": "s_c_de",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5075716615,
+    "wallet": "EQCu9SbJgX2TuGGlbg0x5PWj8tqFHWdYTlfQdQs5ttNb8VyY",
+    "amount": 21.5,
+    "user_data": {
+      "first_name": "Serg",
+      "username": "ExPerimmEnter",
+      "language_code": "uk",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1589254329,
+    "wallet": "EQDpYvOGQmLMh7n0Vhs03HizMV2JUkYdB9sZ_ktj5DLf4Ua4",
+    "amount": 21.5,
+    "user_data": {
+      "first_name": "Кирилл🐈‍⬛",
+      "username": "Ya_Zamir1",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 356092700,
+    "wallet": "EQCjG_IyrxaQakUZSxlr5Q4bPlrSAPfy_oGfoEScAxuG27ld",
+    "amount": 21.5,
+    "user_data": {
+      "first_name": "Алекс",
+      "username": "crazy366",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 872988558,
+    "wallet": "EQBvu-n6rI0uXklcO6-cr96ek9d3r92Z5RXMYeGDQMcM9dou",
+    "amount": 21,
+    "user_data": {
+      "first_name": "Ivan",
+      "last_name": "Leshchenko",
+      "username": "i1_leshchenko",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 591110193,
+    "wallet": "EQAFg2f122SW_nF3j2CvoJjnGLI0s1B75bgLBC5BVl3QV-cF",
+    "amount": 21,
+    "user_data": {
+      "first_name": "Микита",
+      "username": "Sverh123",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 398766541,
+    "wallet": "EQCxTPaCPh_M1ZhzeV-AIUh6gmD5SNJ-992mvmnn6v6qLCNs",
+    "amount": 21,
+    "user_data": {
+      "first_name": "Kostya",
+      "username": "abcdf128492",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 629534209,
+    "wallet": "EQAaCX1H0vaOCoran2WnhONJEpVnU53RE1WD8Yqnkem_aEuR",
+    "amount": 20.680000000000003,
+    "user_data": {
+      "first_name": "terrabyte",
+      "username": "terrabyte777",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1582869962,
+    "wallet": "EQB0oUn2BZKeclDTUGxXHw01pw9gM5YRPhulBYg3J1UrqIXj",
+    "amount": 20.330000000000002,
+    "user_data": {
+      "first_name": "Veritas",
+      "username": "Aequitas_Veritas1",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1171786401,
+    "wallet": "EQArAfyBlMj91UBwOC07vYYUwRYRhaBBOc_FDnlUJqaBjpOb",
+    "amount": 20,
+    "user_data": {
+      "first_name": "Alsu",
+      "username": "Alsusana",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1153007224,
+    "wallet": "EQDwKlBmOIZRUCyjIMWeWSLxpjgGj0cuN36oB_Nidaw8TGgL",
+    "amount": 20,
+    "user_data": {
+      "first_name": "Multacci",
+      "username": "Multacci",
+      "language_code": "uk",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 490048674,
+    "wallet": "EQBtM-w7BUp_3nLzk84tFtjTq9ElSWIPfJa7-WJac51a8B6T",
+    "amount": 20,
+    "user_data": {
+      "first_name": "Anton",
+      "username": "antoshiba_dd",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 749197358,
+    "wallet": "EQC-F6yYosB71d90hk5EU1_EmYJL3CiVhiYsjGVWtr9_fNfN",
+    "amount": 19.8,
+    "user_data": {
+      "first_name": ".",
+      "username": "qowpe",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1175989391,
+    "wallet": "EQAoE0DTaJdlFuTtj9chVZQJE-qT0YQhGz5V9_Ytgmh8BU8x",
+    "amount": 19.53,
+    "user_data": {
+      "first_name": "Котяра 🍏",
+      "username": "kloliks5",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 94556687,
+    "wallet": "EQBqcdpS_EhMWaIVhz8SfqgxC8FA2A4eWZIqL5anVprFrfLf",
+    "amount": 19,
+    "user_data": {
+      "first_name": "Andre",
+      "last_name": "Shmelkov",
+      "username": "shmlkv",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 511955235,
+    "wallet": "EQA-50RnMsbYaS_pDjKPMxsB-98yHAuEPiE56v1ggCRGg2yO",
+    "amount": 18.9,
+    "user_data": {
+      "first_name": "7",
+      "username": "by_fear",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 6948150922,
+    "wallet": "EQCBavDyAudREc6UJ0xPRwqkafMc7Q4RSF9j39QTOSpgmI4h",
+    "amount": 18.700000000000003,
+    "user_data": {
+      "first_name": "Гудвин",
+      "username": "goooodw1n",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 385191309,
+    "wallet": "EQDjoBOlDkX7gNooLY6rjchlytfwCNinygaYXPrpkjLM4ivp",
+    "amount": 18.700000000000003,
+    "user_data": {
+      "first_name": "Егор",
+      "last_name": "Бусырев",
+      "username": "ar1stocrat",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5373802075,
+    "wallet": "EQA-zpVhah3RhDSS3KtW-vIUipDd1lGBnCYrWxRm_TyE6dfy",
+    "amount": 18,
+    "user_data": {
+      "first_name": "Ihor",
+      "last_name": "Usenko",
+      "username": "igorsblv1",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 5029562354,
+    "wallet": "EQDpVUIFxESYgVilLWCvrnqffw8naGl6jNWoy8N5KZ5UfIEu",
+    "amount": 16.8,
+    "user_data": {
+      "first_name": "Sad slut",
+      "username": "devsor",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 6240805128,
+    "wallet": "EQChOqBd5Bk9Ap2WnL7UIVJ_oXNXVLeQ3hyc8LRlnAy8LA5Z",
+    "amount": 15.950000000000001,
+    "user_data": {
+      "first_name": "Taylor",
+      "last_name": "Swift",
+      "username": "swiftexist",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1267276624,
+    "wallet": "EQDdSoKpVoT0n5nIFrNd11BzfjsUzkIc84y1kgZIK1KDn2SW",
+    "amount": 15.75,
+    "user_data": {
+      "first_name": "Gleb Gorelik",
+      "last_name": "格列布\\グレブ",
+      "username": "willowispl",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1055572355,
+    "wallet": "EQB2CNLI0kg58BA1viM2BUxnJRUQ6S4_kxURZIGTcjlCSiwc",
+    "amount": 15.75,
+    "user_data": {
+      "first_name": "Квинов",
+      "username": "Kvinsseee",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 880411334,
+    "wallet": "EQBYILVdhJdRJUVYDkjt5iPFvShRsax-IHW-NB1AYM1IOL_M",
+    "amount": 15.75,
+    "user_data": {
+      "first_name": "Ярослав",
+      "username": "Iaris79",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 572113424,
+    "wallet": "EQCBnFLYiFiyFiuZ32lZxOo9IDsMDOihtVKasbSIYRw-5B0v",
+    "amount": 15.75,
+    "user_data": {
+      "first_name": "принцеса",
+      "last_name": "kw",
+      "username": "svyatoslovee",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 516266282,
+    "wallet": "EQAupJK-JGQ0EwTvO2nzqOgpoiyPCYeSR8KS1E9XF7h_Ub2g",
+    "amount": 15.75,
+    "user_data": {
+      "first_name": "Andrzej 🐈‍⬛",
+      "username": "KRASAWA13",
+      "language_code": "uk",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
     "id": 307173841,
     "wallet": "EQDdpA5Gkz58yGPMrPKNoKn2YnJWDdG2q0PqWF7l_x7XM3wp",
-    "amount": 15,
+    "amount": 15.75,
     "user_data": {
       "first_name": "Иван",
       "language_code": "ru",
@@ -12,15 +1307,51 @@
     "is3": false
   },
   {
-    "id": 6240805128,
-    "wallet": "EQChOqBd5Bk9Ap2WnL7UIVJ_oXNXVLeQ3hyc8LRlnAy8LA5Z",
-    "amount": 14.5,
+    "id": 7281261620,
+    "wallet": "EQBclBWHm9gnSzJELnOWCjGUvJyTGxf16l9r5Z1-eUFbRrKR",
+    "amount": 15.400000000000002,
     "user_data": {
-      "first_name": "Taylor",
-      "last_name": "Swift",
-      "username": "swiftexist",
-      "language_code": "en",
+      "first_name": "🐤 лллл Gra-Gra",
+      "username": "pudrichTON",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 2086855515,
+    "wallet": "EQCjGxiP51dewkEvYiLki-J0mbWTO-tb0k6Ny-2ajfVzFopM",
+    "amount": 15.400000000000002,
+    "user_data": {
+      "first_name": "шпендус",
+      "last_name": "новичок",
+      "username": "durshlagkepler",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 6264620900,
+    "wallet": "EQBEAN0e6jdNGgo47WNablXDbM_dGcbhmEHKCWxcmjbwUEN3",
+    "amount": 15.190908337,
+    "user_data": {
+      "first_name": "vital_talk",
+      "username": "vital_talk",
+      "language_code": "ru",
       "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 503769689,
+    "wallet": "EQDctVV4_mpShrcIcvSsc8aFjOpiTBwnumRO5QCH23SpKHdR",
+    "amount": 15,
+    "user_data": {
+      "first_name": "Сергей",
+      "username": "CergeuK",
+      "language_code": "ru"
     },
     "is2": false,
     "is3": false
@@ -40,26 +1371,26 @@
     "is3": false
   },
   {
-    "id": 7281261620,
-    "wallet": "EQBclBWHm9gnSzJELnOWCjGUvJyTGxf16l9r5Z1-eUFbRrKR",
-    "amount": 14,
+    "id": 5033513819,
+    "wallet": "EQB-Dhsnej9QJfVGEoufE1dRbCBVpL5_3mRvpOZBOuCop_r2",
+    "amount": 14.3,
     "user_data": {
-      "first_name": "🐤 лллл Gra-Gra",
-      "username": "pudrichTON",
-      "language_code": "ru"
+      "first_name": "Lm",
+      "username": "limai9999",
+      "language_code": "ru",
+      "is_premium": true
     },
-    "is2": false,
+    "is2": true,
     "is3": false
   },
   {
-    "id": 2086855515,
-    "wallet": "EQCjGxiP51dewkEvYiLki-J0mbWTO-tb0k6Ny-2ajfVzFopM",
-    "amount": 14,
+    "id": 420492655,
+    "wallet": "EQCoEr88dkg1qFQIbe9ydg_puXMMxa6Q-L4W3Dafzg09TgnI",
+    "amount": 14.3,
     "user_data": {
-      "first_name": "шпендус",
-      "last_name": "новичок",
-      "username": "durshlagkepler",
-      "language_code": "ru"
+      "first_name": "ㅤ",
+      "username": "u6ermensch",
+      "language_code": "en"
     },
     "is2": true,
     "is3": false
@@ -78,34 +1409,9 @@
     "is3": false
   },
   {
-    "id": 5033513819,
-    "wallet": "EQB-Dhsnej9QJfVGEoufE1dRbCBVpL5_3mRvpOZBOuCop_r2",
-    "amount": 13,
-    "user_data": {
-      "first_name": "Lm",
-      "username": "limai9999",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 420492655,
-    "wallet": "EQCoEr88dkg1qFQIbe9ydg_puXMMxa6Q-L4W3Dafzg09TgnI",
-    "amount": 13,
-    "user_data": {
-      "first_name": "ㅤ",
-      "username": "u6ermensch",
-      "language_code": "en"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
     "id": 301267792,
     "wallet": "EQBgFqGmjTI8Dqi7axFAw--26-2nRMQd-R_rnV-3iZdGMCFV",
-    "amount": 12.7,
+    "amount": 13.97,
     "user_data": {
       "first_name": "Mika",
       "username": "Rabbitslike",
@@ -116,33 +1422,9 @@
     "is3": false
   },
   {
-    "id": 5286856175,
-    "wallet": "EQA_WCEKbTCWT_iWF86BAKfQ-IyUs0RjN04l61eJ3XvPx4Pa",
-    "amount": 11,
-    "user_data": {
-      "first_name": "ixxxivvvxiixvviixxc",
-      "username": "ixxxivvvxiixvviixxc",
-      "language_code": "ru"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 1425333623,
-    "wallet": "EQCfahF3kCZDEY5Usjy97Jeq-76TkC6l-ApMEOVlQ3GV076l",
-    "amount": 11,
-    "user_data": {
-      "first_name": "V",
-      "username": "vu_888",
-      "language_code": "ru"
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
     "id": 902179105,
     "wallet": "EQBr0nOm0u4V1Ibn1sFrMCrIqdWWznizMFMQ9MIf1byHxo7t",
-    "amount": 11,
+    "amount": 12.100000000000001,
     "user_data": {
       "first_name": "Sergei",
       "last_name": "Kirsan",
@@ -154,22 +1436,9 @@
     "is3": true
   },
   {
-    "id": 671362960,
-    "wallet": "EQA3a_uKRpyCguzRp2uVbBpDUwHWZIvLzAw-Zy2H_HHLCAV4",
-    "amount": 11,
-    "user_data": {
-      "first_name": "Руслан 🥷",
-      "username": "montenegro59",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
     "id": 455200393,
     "wallet": "EQAO73tLfM-YJoHZJA1s54KcLQ_4T-fuFWJaaFWHhXpjB-0c",
-    "amount": 10.58135902,
+    "amount": 11.639494922000003,
     "user_data": {
       "first_name": "Андрей",
       "last_name": "Виноградов",
@@ -180,9 +1449,121 @@
     "is3": false
   },
   {
+    "id": 5286856175,
+    "wallet": "EQA_WCEKbTCWT_iWF86BAKfQ-IyUs0RjN04l61eJ3XvPx4Pa",
+    "amount": 11.55,
+    "user_data": {
+      "first_name": "ixxxivvvxiixvviixxc",
+      "username": "ixxxivvvxiixvviixxc",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1425333623,
+    "wallet": "EQCfahF3kCZDEY5Usjy97Jeq-76TkC6l-ApMEOVlQ3GV076l",
+    "amount": 11.55,
+    "user_data": {
+      "first_name": "V",
+      "username": "vu_888",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 671362960,
+    "wallet": "EQA3a_uKRpyCguzRp2uVbBpDUwHWZIvLzAw-Zy2H_HHLCAV4",
+    "amount": 11.55,
+    "user_data": {
+      "first_name": "Руслан 🥷",
+      "username": "montenegro59",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 6319526415,
+    "wallet": "EQAWaI7J1_RE3CPJFeMuhSBJ-bUBDHQ4gdZwYULeirranIsW",
+    "amount": 11,
+    "user_data": {
+      "first_name": "OTX",
+      "username": "OTX_support",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 6868579882,
+    "wallet": "EQA0iYRFXGB6Si9accPFO7Xqpx50xcjIrQCxDfXi9tN8Rnsv",
+    "amount": 11,
+    "user_data": {
+      "first_name": "Две стадии",
+      "last_name": "Агонии",
+      "username": "chtd337",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1813610980,
+    "wallet": "EQB1UwM-VVkDPcMJgxcuB25xDgcVgldbCuwMy938kvuKxWt_",
+    "amount": 11,
+    "user_data": {
+      "first_name": "Кирило",
+      "last_name": "Олександрович",
+      "username": "kyrylosigmovic",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1781428660,
+    "wallet": "EQB3yg6A7E_gWsIwpmIpp-XtYDitxp8AY-bQU7Y0h6qmwlUV",
+    "amount": 11,
+    "user_data": {
+      "first_name": "подросток",
+      "username": "nenenoeaifn",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 1290459429,
+    "wallet": "EQCuPCfJuIh5PeDuwAl80ovXie_XWhJh4Cfr7aS6f6SPxJB1",
+    "amount": 11,
+    "user_data": {
+      "first_name": "Егор",
+      "username": "BreadestBread",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 719134510,
+    "wallet": "EQA_n5ntVtWZRWn0KJkKHMOvRzv74jjTaEkJbWwMaVcS5hac",
+    "amount": 11,
+    "user_data": {
+      "first_name": "Назар",
+      "username": "nr_sch",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
     "id": 1181019311,
     "wallet": "EQApk0NSJVKhW7hAjETnn7mtH2yT1rFsiSMz7GVhkkKpUNUC",
-    "amount": 10.1,
+    "amount": 10.605,
     "user_data": {
       "first_name": "wkeeq",
       "username": "wkeeq",
@@ -190,6 +1571,183 @@
       "is_premium": true
     },
     "is2": false,
+    "is3": false
+  },
+  {
+    "id": 5643856814,
+    "wallet": "EQCNiodJYooHQlkfL0Sl0ooeW5d4w-DBXT2S6sL4AyOIcjCt",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "DARK ANGEL ~ЧЕК БИО~",
+      "username": "togr30000",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 6224679458,
+    "wallet": "EQCN8aSjg7ym8Fkb2gtCG7NNXwNxRqFFZSuirGaLbZZt3429",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "Azzeddine 🐤 Gra-Gra",
+      "last_name": "B",
+      "username": "Mister_chlapa",
+      "language_code": "fr",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 7162550078,
+    "wallet": "EQAwBEK4qSk0RccBZ09ysOcyjdEJN5V2H8jWaMA5ULb8qcAp",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "Ampere",
+      "username": "RICHNlGGA",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 7206291326,
+    "wallet": "EQBo35itN-GMYMly_JR3jGLsNJn41SoMWRuZEANyxdvR3O-e",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "LiB_MiD",
+      "language_code": "uk"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1308517605,
+    "wallet": "EQDgAc-h9kTMlhNBzaRAjMLEznnn_cVvqO7eaXXdyw2GnR7Z",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "егарян",
+      "username": "egoryan47",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 1168590564,
+    "wallet": "EQDRojxRT_qrbzH56_yM-YHhSV7w87mvgxE3fWgRunD_jNEO",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "Даниил",
+      "username": "daniilgusev2605",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 965524966,
+    "wallet": "EQBQgo7X6q8nPuMzIZmQY1P-jhi2x8OQ9nGiZwnZG-nQtlAo",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "𝓥𝓪𝓭𝔂𝓶",
+      "username": "vadymMlb",
+      "language_code": "uk"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 909422574,
+    "wallet": "EQDGHmciiWiQmK6smBdnukB4v5H6joZvr9fcC_j_LIDdNYXt",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": ".",
+      "username": "ham777erv",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 801927072,
+    "wallet": "EQC3ifE2Pl2tWe_edpUEBPbrNwHbwBy4V07gay32-bvhsdO9",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "m.prapap",
+      "username": "gggggggrrf",
+      "language_code": "ru"
+    },
+    "is2": false,
+    "is3": false
+  },
+  {
+    "id": 789887228,
+    "wallet": "EQAPQ_77Tfih_0IJkXOJEMkd7i4WhufhU2DD-VhZdMyz2uSB",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "꒦4ꑒꑀꌅ(☍)",
+      "username": "kanojooaishiteiru",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 684830758,
+    "wallet": "EQBr_D0nHG8OOizMS4D28Ge_8ZIqRDx6GLsf9RgWZZ83EYM2",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "Александр",
+      "username": "GhostPirat",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 568357480,
+    "wallet": "EQAxeYtF59315nDXOpZf1MBgC94B8hRUQQV_OqGyzI3TfBTW",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "деандрей",
+      "username": "yastrebx",
+      "language_code": "ru"
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 473999110,
+    "wallet": "EQCqbZBv_oS_5JPczrlQDO_freoP-Mh6W1H6aJA_B45IlgyK",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "IK 🐸",
+      "username": "sadidike",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
+    "is3": false
+  },
+  {
+    "id": 400828770,
+    "wallet": "EQCXU2aPNhnDcmoQca6PfaBmc0k2CoQq8ZA3J4V3S-3Wse1A",
+    "amount": 10.5,
+    "user_data": {
+      "first_name": "данила",
+      "username": "shimerr_ss",
+      "language_code": "ru",
+      "is_premium": true
+    },
+    "is2": true,
     "is3": false
   },
   {
@@ -218,170 +1776,6 @@
     "is3": false
   },
   {
-    "id": 5643856814,
-    "wallet": "EQCNiodJYooHQlkfL0Sl0ooeW5d4w-DBXT2S6sL4AyOIcjCt",
-    "amount": 10,
-    "user_data": {
-      "first_name": "DARK ANGEL ~ЧЕК БИО~",
-      "username": "togr30000",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 6224679458,
-    "wallet": "EQCN8aSjg7ym8Fkb2gtCG7NNXwNxRqFFZSuirGaLbZZt3429",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Azzeddine 🐤 Gra-Gra",
-      "last_name": "B",
-      "username": "Mister_chlapa",
-      "language_code": "fr",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 7162550078,
-    "wallet": "EQAwBEK4qSk0RccBZ09ysOcyjdEJN5V2H8jWaMA5ULb8qcAp",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Ampere",
-      "username": "RICHNlGGA",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 7206291326,
-    "wallet": "EQBo35itN-GMYMly_JR3jGLsNJn41SoMWRuZEANyxdvR3O-e",
-    "amount": 10,
-    "user_data": {
-      "first_name": "LiB_MiD",
-      "language_code": "uk"
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
-    "id": 6319526415,
-    "wallet": "EQAWaI7J1_RE3CPJFeMuhSBJ-bUBDHQ4gdZwYULeirranIsW",
-    "amount": 10,
-    "user_data": {
-      "first_name": "OTX",
-      "username": "OTX_support",
-      "language_code": "ru"
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
-    "id": 6868579882,
-    "wallet": "EQA0iYRFXGB6Si9accPFO7Xqpx50xcjIrQCxDfXi9tN8Rnsv",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Две стадии",
-      "last_name": "Агонии",
-      "username": "chtd337",
-      "language_code": "ru"
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
-    "id": 1813610980,
-    "wallet": "EQB1UwM-VVkDPcMJgxcuB25xDgcVgldbCuwMy938kvuKxWt_",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Кирило",
-      "last_name": "Олександрович",
-      "username": "kyrylosigmovic",
-      "language_code": "ru"
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
-    "id": 1781428660,
-    "wallet": "EQB3yg6A7E_gWsIwpmIpp-XtYDitxp8AY-bQU7Y0h6qmwlUV",
-    "amount": 10,
-    "user_data": {
-      "first_name": "подросток",
-      "username": "nenenoeaifn",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 1308517605,
-    "wallet": "EQDgAc-h9kTMlhNBzaRAjMLEznnn_cVvqO7eaXXdyw2GnR7Z",
-    "amount": 10,
-    "user_data": {
-      "first_name": "егарян",
-      "username": "egoryan47",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
-    "id": 1290459429,
-    "wallet": "EQCuPCfJuIh5PeDuwAl80ovXie_XWhJh4Cfr7aS6f6SPxJB1",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Егор",
-      "username": "BreadestBread",
-      "language_code": "ru"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 1168590564,
-    "wallet": "EQDRojxRT_qrbzH56_yM-YHhSV7w87mvgxE3fWgRunD_jNEO",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Даниил",
-      "username": "daniilgusev2605",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": false,
-    "is3": false
-  },
-  {
-    "id": 965524966,
-    "wallet": "EQBQgo7X6q8nPuMzIZmQY1P-jhi2x8OQ9nGiZwnZG-nQtlAo",
-    "amount": 10,
-    "user_data": {
-      "first_name": "𝓥𝓪𝓭𝔂𝓶",
-      "username": "vadymMlb",
-      "language_code": "uk"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 909422574,
-    "wallet": "EQDGHmciiWiQmK6smBdnukB4v5H6joZvr9fcC_j_LIDdNYXt",
-    "amount": 10,
-    "user_data": {
-      "first_name": ".",
-      "username": "ham777erv",
-      "language_code": "ru"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
     "id": 832505584,
     "wallet": "EQBfzkt6vFxpoVcPs1fHsiX5NfoQzE5FU8e-SQoIB_FJ9avJ",
     "amount": 10,
@@ -390,56 +1784,6 @@
       "last_name": "Karachalov",
       "username": "chiigma",
       "language_code": "ru"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 801927072,
-    "wallet": "EQC3ifE2Pl2tWe_edpUEBPbrNwHbwBy4V07gay32-bvhsdO9",
-    "amount": 10,
-    "user_data": {
-      "first_name": "m.prapap",
-      "username": "gggggggrrf",
-      "language_code": "ru"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 789887228,
-    "wallet": "EQAPQ_77Tfih_0IJkXOJEMkd7i4WhufhU2DD-VhZdMyz2uSB",
-    "amount": 10,
-    "user_data": {
-      "first_name": "꒦4ꑒꑀꌅ(☍)",
-      "username": "kanojooaishiteiru",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 719134510,
-    "wallet": "EQA_n5ntVtWZRWn0KJkKHMOvRzv74jjTaEkJbWwMaVcS5hac",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Назар",
-      "username": "nr_sch",
-      "language_code": "uk"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 684830758,
-    "wallet": "EQBr_D0nHG8OOizMS4D28Ge_8ZIqRDx6GLsf9RgWZZ83EYM2",
-    "amount": 10,
-    "user_data": {
-      "first_name": "Александр",
-      "username": "GhostPirat",
-      "language_code": "ru",
-      "is_premium": true
     },
     "is2": true,
     "is3": false
@@ -458,18 +1802,6 @@
     "is3": false
   },
   {
-    "id": 568357480,
-    "wallet": "EQAxeYtF59315nDXOpZf1MBgC94B8hRUQQV_OqGyzI3TfBTW",
-    "amount": 10,
-    "user_data": {
-      "first_name": "деандрей",
-      "username": "yastrebx",
-      "language_code": "ru"
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
     "id": 522165966,
     "wallet": "EQALvC4TxCMiH5ocdiGJczOkuIt4idd2iQld9fKQdFVeuiJI",
     "amount": 10,
@@ -483,38 +1815,12 @@
     "is3": false
   },
   {
-    "id": 473999110,
-    "wallet": "EQCqbZBv_oS_5JPczrlQDO_freoP-Mh6W1H6aJA_B45IlgyK",
-    "amount": 10,
-    "user_data": {
-      "first_name": "IK 🐸",
-      "username": "sadidike",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
     "id": 446171973,
     "wallet": "EQD1b_Msuakm-H6Ngi0QWJL9QxbHQgHTKKOTgvD5Rym16lzz",
     "amount": 10,
     "user_data": {
       "first_name": "yaria",
       "username": "y4ria",
-      "language_code": "ru",
-      "is_premium": true
-    },
-    "is2": true,
-    "is3": false
-  },
-  {
-    "id": 400828770,
-    "wallet": "EQCXU2aPNhnDcmoQca6PfaBmc0k2CoQq8ZA3J4V3S-3Wse1A",
-    "amount": 10,
-    "user_data": {
-      "first_name": "данила",
-      "username": "shimerr_ss",
       "language_code": "ru",
       "is_premium": true
     },
@@ -569,7 +1875,7 @@
       "username": "Bxne_YSL",
       "language_code": "ru"
     },
-    "is2": true,
+    "is2": false,
     "is3": false
   },
   {
@@ -890,7 +2196,7 @@
       "language_code": "fr",
       "is_premium": true
     },
-    "is2": true,
+    "is2": false,
     "is3": false
   },
   {
